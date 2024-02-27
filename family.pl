@@ -1,0 +1,9 @@
+male(jerry).
+male(stuart).
+male(warren).
+female(maryalice).
+female(kathe).
+brother(jerry,stuart).
+brother(jerry,kathe).
+father(warren,jerry).
+mother(maryalice,jerry).
